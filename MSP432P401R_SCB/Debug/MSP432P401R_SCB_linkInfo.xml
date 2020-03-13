@@ -2,7 +2,7 @@
 <link_info>
    <banner>TI ARM Linker Unix v19.6.0.STS</banner>
    <copyright>Copyright (c) 1996-2018 Texas Instruments Incorporated</copyright>
-   <link_time>0x5e68810c</link_time>
+   <link_time>0x5e6b169e</link_time>
    <link_errors>0x0</link_errors>
    <output_file>MSP432P401R_SCB.out</output_file>
    <entry_point>
@@ -1117,76 +1117,76 @@
          <name>.debug_str</name>
          <load_address>0x0</load_address>
          <run_address>0x0</run_address>
-         <size>0x15d8</size>
+         <size>0x15d5</size>
          <input_file_ref idref="fl-1"/>
       </object_component>
       <object_component id="oc-c0">
          <name>.debug_str</name>
-         <load_address>0x15d8</load_address>
-         <run_address>0x15d8</run_address>
+         <load_address>0x15d5</load_address>
+         <run_address>0x15d5</run_address>
          <size>0x2bf</size>
          <input_file_ref idref="fl-1"/>
       </object_component>
       <object_component id="oc-36">
          <name>.debug_str</name>
-         <load_address>0x1897</load_address>
-         <run_address>0x1897</run_address>
+         <load_address>0x1894</load_address>
+         <run_address>0x1894</run_address>
          <size>0xff</size>
          <input_file_ref idref="fl-1"/>
       </object_component>
       <object_component id="oc-125">
          <name>.debug_str</name>
-         <load_address>0x1996</load_address>
-         <run_address>0x1996</run_address>
+         <load_address>0x1993</load_address>
+         <run_address>0x1993</run_address>
          <size>0x34e</size>
          <input_file_ref idref="fl-1"/>
       </object_component>
       <object_component id="oc-b9">
          <name>.debug_str</name>
-         <load_address>0x1ce4</load_address>
-         <run_address>0x1ce4</run_address>
+         <load_address>0x1ce1</load_address>
+         <run_address>0x1ce1</run_address>
          <size>0x157</size>
          <input_file_ref idref="fl-1"/>
       </object_component>
       <object_component id="oc-8b">
          <name>.debug_str</name>
-         <load_address>0x1e3b</load_address>
-         <run_address>0x1e3b</run_address>
+         <load_address>0x1e38</load_address>
+         <run_address>0x1e38</run_address>
          <size>0x105</size>
          <input_file_ref idref="fl-be"/>
       </object_component>
       <object_component id="oc-cc">
          <name>.debug_str</name>
-         <load_address>0x1f40</load_address>
-         <run_address>0x1f40</run_address>
+         <load_address>0x1f3d</load_address>
+         <run_address>0x1f3d</run_address>
          <size>0x140</size>
          <input_file_ref idref="fl-be"/>
       </object_component>
       <object_component id="oc-186">
          <name>.debug_str</name>
-         <load_address>0x2080</load_address>
-         <run_address>0x2080</run_address>
+         <load_address>0x207d</load_address>
+         <run_address>0x207d</run_address>
          <size>0xed</size>
          <input_file_ref idref="fl-c4"/>
       </object_component>
       <object_component id="oc-19a">
          <name>.debug_str</name>
-         <load_address>0x216d</load_address>
-         <run_address>0x216d</run_address>
+         <load_address>0x216a</load_address>
+         <run_address>0x216a</run_address>
          <size>0x157</size>
          <input_file_ref idref="fl-c4"/>
       </object_component>
       <object_component id="oc-18b">
          <name>.debug_str</name>
-         <load_address>0x22c4</load_address>
-         <run_address>0x22c4</run_address>
+         <load_address>0x22c1</load_address>
+         <run_address>0x22c1</run_address>
          <size>0x150</size>
          <input_file_ref idref="fl-c4"/>
       </object_component>
       <object_component id="oc-190">
          <name>.debug_str</name>
-         <load_address>0x2414</load_address>
-         <run_address>0x2414</run_address>
+         <load_address>0x2411</load_address>
+         <run_address>0x2411</run_address>
          <size>0x197</size>
          <input_file_ref idref="fl-c4"/>
       </object_component>
@@ -1831,7 +1831,7 @@
          <name>.debug_str</name>
          <load_address>0x0</load_address>
          <run_address>0x0</run_address>
-         <size>0x25ab</size>
+         <size>0x25a8</size>
          <contents>
             <object_component_ref idref="oc-b4"/>
             <object_component_ref idref="oc-c0"/>
