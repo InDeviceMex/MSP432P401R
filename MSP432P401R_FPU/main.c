@@ -18,10 +18,7 @@ typedef struct {
 
 void main(void)
 {
-    volatile int number1=0;
-    volatile int number2=1;
-    float fnumber1=0.1;
-    float fnumber2=2.0;
+    WDT_A->CTL = 0x5A00 | 0x0080;     // stop watchdog timer
     FPU__vInit();
     SCB__vInit();
 
